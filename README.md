@@ -1,0 +1,4 @@
+# VPHS-Science-Fair-
+I created a program used to simulate the likelihood that two people (excluding twins) would be born with the same DNA under the same two parents. It does this by creating "children" (represented by a sequence of numbers) assumable from the DNA of these two parents and stops when two children of identical DNA have been created. The programs asks for a number n which represents the number of proteins that define the human body. However, there are hundreds of proteins that define the human body and not even a supercomputer could compute enough iterations to produce two children of the same identical DNA (it would take years). The point of the simulation is to highlight the fact that each individual is truly unique.
+Calc displays the iterations to provide a visual for the user to see what the computer is doing
+The other file, does not display anything in an attempt to save resources.
